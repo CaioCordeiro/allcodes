@@ -2,3 +2,4 @@ https://github.com/braziljs/eloquente-javascript/blob/master/pdf/livro.pdf
 https://github.com/getify/You-Dont-Know-JS
 https://docs.google.com/forms/d/1wu-KZm2vkpOEQ_EU8vOjG67raU5KpgaZl50PWd0Mq2g/viewform?edit_requested=true
 http://www.unterstein.net/su/docs/CathBaz.pdf
+https://classroom.google.com/u/1/c/MTU5ODEwMTQxMzRa
